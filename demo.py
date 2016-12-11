@@ -2,7 +2,7 @@
 #TuSDK 人脸api 请求示例
 
 
-from TuSDK.face import *
+from tusdk.face import *
 
 def main():
 	#请修改为您的 公有key
